@@ -3,5 +3,5 @@ import HashDigest from "./HashDigest";
 
 export {
     jintak0401,
-    HashDigest,
+    HashDigest
 };
